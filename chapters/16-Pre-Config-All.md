@@ -264,11 +264,7 @@ interface fastethernet0/1
 
 ---
 
-## 🏷️ Tags
 
-`#OSPF` `#Frame-Relay` `#LSA` `#Stub` `#NSSA` `#Summarization` `#Cisco` `#CCNP` `#CCIE` `#Redistribution`
-
----
 
 ⬅️ **이전:** [15. OSPF 경로 요약](./15-OSPF-Summary.md)  
 🏠 **메인:** [README](../README.md)
