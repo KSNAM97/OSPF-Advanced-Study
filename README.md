@@ -1,3 +1,10 @@
+![Topic](https://img.shields.io/badge/Topic-OSPF-blue)
+![Feature](https://img.shields.io/badge/Feature-Multi--Area%20%7C%20LSA%20%7C%20NSSA-orange)
+![Vendor](https://img.shields.io/badge/Vendor-Cisco-1BA0D7?logo=cisco&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-GNS3-2ECC71)
+![Level](https://img.shields.io/badge/Level-Advanced-red)
+
+
 # OSPF Advanced Study (OSPF 심화)
 
 > Cisco 라우터 기반 OSPF 심화 개념 실습 정리  
